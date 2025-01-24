@@ -1,4 +1,4 @@
-![yamachu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamachu&show_icons=true&theme=dracula)
+ ![yamachu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamachu&show_icons=true&theme=dracula)
 
 :heart: C# / Also like Scala, TypeScript :)
 
